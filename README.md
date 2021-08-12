@@ -1,5 +1,6 @@
-## Gijs Paulussen
+# Gijs Paulussen
 
+## About me 
 
 ![gijs2](https://user-images.githubusercontent.com/26135325/129268662-c44ba478-f911-44fe-98b0-d4f132904bf4.jpg)
 
